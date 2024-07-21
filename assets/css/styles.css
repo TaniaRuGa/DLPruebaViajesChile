@@ -1,5 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
+    font-style: normal;
 	background-color: #000000;
 	max-width: 100%;
 	margin: 0%;	
@@ -16,17 +17,20 @@ body{
 .container h3 {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 300;
+    font-style: normal;
 	color: white;
 }
 .container h4 {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 300;
+    font-style: normal;
 	color: white;
 }
 .colorParrafo {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 350;
     font-size: 16px;
+    font-style: normal;
 	color: white;
 }
 .icon-claro {
@@ -43,22 +47,26 @@ body{
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 350;
     font-size: 16px;
+    font-style: normal;
 	color: white;
 }
 .card-text {
     font-family: "Roboto", "Thin", sans-serif;
     font-weight: 100;
     font-size: 16px;
+    font-style: normal;
 	color: white; 
 }
 
 label {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
+    font-style: normal;
 	color: white; 
 }
 footer {
     font-family: "Roboto", sans-serif;
+    font-style: normal;
     text-align: center;
     justify-content: space-around;
     align-items: center;
