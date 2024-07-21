@@ -5,6 +5,8 @@ body{
 	margin: 0%;	
 	padding: 0%;
 }
-.navbar-brand img{}
-
+.navbar-brand img{
+    width: 55px;
+	height: auto;
+}
 .carousel-item img{}
