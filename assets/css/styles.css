@@ -83,7 +83,6 @@ footer {
     text-align: center;
     justify-content: space-around;
     align-items: center;
-    background-color: aqua;
 }
 .container row {
     display: flex;
@@ -102,7 +101,8 @@ footer {
         scale: 100%;
     }
 }
-img {
+
+.img-estable {
     view-timeline-name: --image;
     view-timeline-axis: block;
 
