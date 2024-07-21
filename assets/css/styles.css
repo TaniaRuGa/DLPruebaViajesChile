@@ -35,12 +35,14 @@ body{
     font-weight: 350;
     font-size: 16px;
     font-style: normal;
+    background-color: black;
 	color: white;
 }
 .icon-claro {
     color: white;
     align-items: center;
     justify-content: space-around;
+    background-color: aqua;
 }
 .img-estable {
     width: 100%;
@@ -52,6 +54,7 @@ body{
     font-weight: 350;
     font-size: 16px;
     font-style: normal;
+    background-color: aqua;
 	color: white;
 }
 .card-text {
@@ -59,6 +62,7 @@ body{
     font-weight: 100;
     font-size: 16px;
     font-style: normal;
+    background-color: aqua;
 	color: white; 
 }
 
