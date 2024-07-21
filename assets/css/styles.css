@@ -42,7 +42,7 @@ body{
     color: white;
     align-items: center;
     justify-content: space-around;
-    background-color: aqua;
+    background-image: none;
 }
 .img-estable {
     width: 100%;
@@ -54,7 +54,6 @@ body{
     font-weight: 350;
     font-size: 16px;
     font-style: normal;
-    background-color: aqua;
 	color: white;
 }
 .card-text {
@@ -62,7 +61,6 @@ body{
     font-weight: 100;
     font-size: 16px;
     font-style: normal;
-    background-color: aqua;
 	color: white; 
 }
 
@@ -72,6 +70,13 @@ label {
     font-style: normal;
 	color: white; 
 }
+
+.botonForm {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: white;
+}
+
 footer {
     font-family: "Roboto", sans-serif;
     font-style: normal;
