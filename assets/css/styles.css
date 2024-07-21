@@ -6,26 +6,31 @@ body{
 	margin: 0%;	
 	padding: 0%;
 }
+
 .navbar-brand img{
     width: 55px;
 	height: auto;
 }
+
 .carousel-item img{
     width: 90%;
 	height: auto;
 }
+
 .container h3 {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 300;
     font-style: normal;
 	color: white;
 }
+
 .container h4 {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 300;
     font-style: normal;
 	color: white;
 }
+
 .colorParrafo {
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 350;
@@ -34,17 +39,20 @@ body{
     background-color: black;
 	color: white;
 }
+
 .icon-claro {
     color: white;
     align-items: center;
     justify-content: space-around;
     background-image: none;
 }
+
 .img-estable {
     width: 100%;
     height: 200px;
     object-fit: cover;
 }
+
 .card-title{
     font-family: "Roboto", "Light", sans-serif;
     font-weight: 350;
@@ -52,6 +60,7 @@ body{
     font-style: normal;
 	color: white;
 }
+
 .card-text {
     font-family: "Roboto", "Thin", sans-serif;
     font-weight: 100;
@@ -80,6 +89,7 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+
 .container row {
     display: flex;
     justify-content: space-around;
@@ -97,7 +107,6 @@ footer {
         scale: 100%;
     }
 }
-
 .img-estable {
     view-timeline-name: --image;
     view-timeline-axis: block;
