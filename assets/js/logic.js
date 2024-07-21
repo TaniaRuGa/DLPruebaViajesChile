@@ -3,4 +3,4 @@ $('#carouselExample').carousel({
 });
 function alertar(texto) {
     alert(texto);
- }; 
+ };
