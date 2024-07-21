@@ -9,4 +9,25 @@ body{
     width: 55px;
 	height: auto;
 }
-.carousel-item img{}
+.carousel-item img{
+    width: 90%;
+	height: auto;
+}
+.container h3 {
+    font-weight: 300;
+	color: white;
+}
+.container h4 {
+    font-weight: 300;
+	color: white;
+}
+.colorParrafo {
+    font-size: 16px;
+	color: white;
+}
+.icon-claro {
+    color: white;
+}
+
+
+
