@@ -27,6 +27,7 @@ body{
 }
 .icon-claro {
     color: white;
+    align-items: center;
 }
 .img-estable {
     width: 100%;
@@ -49,9 +50,14 @@ label {
     font-size: 16px;
 	color: white; 
 }
-footer h3 {
+footer {
     font-family: "Roboto", sans-serif;
     text-align: center;
+}
+.container row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
