@@ -3,20 +3,20 @@ const carousel = document.querySelector('#carouselExample'); // Selecciona el el
 carousel.options = 1500; // Ajusta la velocidad del carrusel en 1.5 segundos //
 
 $(document).ready(function(){
-    $("parrafoCard").dblclick(function(){
+    $("p").dblclick(function(){
         $(this).hide("slow");
     });
 });
 // Selector para elementos con clase ""
 $(document).ready(function() {
-    $(".textD").click(function() {
+    $(".txtP").click(function() {
         $(this).css({
-        "color": "#BA23DB",
+        "color": "#E7163C",
         "font-size": "2em",
         "font-weight": 900
         });
     });
-    $(".textD").dblclick(function() {
+    $(".txtP").dblclick(function() {
         $(this).css({
         "color": "white",
         "font-size": "1.2em",
