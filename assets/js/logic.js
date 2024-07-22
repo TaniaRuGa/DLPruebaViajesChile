@@ -2,8 +2,8 @@ const carousel = document.querySelector('#carouselExample'); // Selecciona el el
 
 carousel.options = 1500; // Ajusta la velocidad del carrusel en 1.5 segundos //
 
-$(document).ready(function(){   // Aplicado jQuery en cards de la presentación ¿quienes somos? //
-    $("p").dblclick(function(){
+$(document).ready(function(){   // Aplicado jQuery en cards de la presentación ¿quienes somos? con la clase "pQuSo" //
+    $(".pQuSo").dblclick(function(){
         $(this).hide("slow");
     });
 });
